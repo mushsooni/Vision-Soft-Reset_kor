@@ -2,7 +2,7 @@
 
 
 ### 다운로드
-https://github.com/mushsooni/Vision-Soft-Reset_kor/releases
+https://github.com/mushsooni/Vision-Soft-Reset_kor/releases/download/v2.1/Vision.Soft.Reset_KR_2.1.zip
 
 ### 문의, 제보
 인디게임 갤러리 "[한글패치 배포] Vision Soft Reset"  
