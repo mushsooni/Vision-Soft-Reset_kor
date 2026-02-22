@@ -12,8 +12,7 @@ https://gall.dcinside.com/indiegame/243767
 Snowyegret(기술), 버섯순이(번역)
 
 ### 게임 원본 빌드
-21486986 (Version 1.3.3)  
-https://steamcommunity.com/games/1005450/announcements/detail/499469681750441991  
+21486986 (Version 1.3.3)    
 https://steamdb.info/depot/1005451/history/?changeid=M:5537458115998122502
 
 ### 사용된 폰트
